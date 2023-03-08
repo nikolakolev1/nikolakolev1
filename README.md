@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikola</h1>
-<h3 align="center">A passionate Computer Science BSc studend from the University of Kent, UK</h3>
+<h3 align="center">A passionate Computer Science BSc student from the University of Kent, UK</h3>
 
 - 🌱 I’m currently learning **Backend (php)**
 
