@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend (php)**
 
-- 📫 How to reach me **nk465@kent.ac.uk**
+- 📫 How to reach me **nk465@kent.ac.uk** or **nikola.kolev1213@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
