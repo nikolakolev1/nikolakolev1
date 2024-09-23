@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nikola</h1>
-<h3 align="center">A passionate Computer Science BSc student from the University of Kent, UK</h3>
-
-- 🌱 I’m currently learning **Backend (php)**
-
-- 📫 How to reach me: **nikola.kolev1213@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
